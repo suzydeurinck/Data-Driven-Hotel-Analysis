@@ -20,8 +20,8 @@ Our primary objective was to craft an all-encompassing interactive dashboard tha
 Our role in this endeavor was to extract meaningful information from travelers' reviews about their experiences. This information aimed to provide valuable insights that can aid in enhancing the hotel's overall performance and customer satisfaction.
 
 ## Technologies Used
-Azure Blob Storage: Used as a storage solution for managing and storing data.
-Power BI Desktop: Utilized for data visualization and report creation.
-Power BI Online: The online service used for sharing and collaborating on Power BI reports and dashboards.
-Power Query in Power BI: Employed for data transformation and manipulation within Power BI.
-DAX (Data Analysis Expressions): Used for creating custom calculations and expressions in Power BI reports and models.
+- ** Azure Blob Storage:** Used as a storage solution for managing and storing data.
+- ** Power BI Desktop:** Utilized for data visualization and report creation.
+- ** Power BI Online:** The online service used for sharing and collaborating on Power BI reports and dashboards.
+- ** Power Query in Power BI:** Employed for data transformation and manipulation within Power BI.
+- ** DAX (Data Analysis Expressions):** Used for creating custom calculations and expressions in Power BI reports and models.
