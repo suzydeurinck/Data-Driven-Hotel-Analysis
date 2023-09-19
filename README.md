@@ -28,11 +28,14 @@ Our role in this endeavor was to extract meaningful information from travelers' 
 
 ## Steps
 
-## Report results
+## Report Results
 
-https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/blob/d564710600419584ed17d58bb38edb85d36656b6/PowerBI_overviewpage.jpg
-https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/blob/d564710600419584ed17d58bb38edb85d36656b6/PowerBI_insights.jpg
-https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/blob/d564710600419584ed17d58bb38edb85d36656b6/PowerBI_reviewanalysis.jpg
+![Overview Page](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/main/PowerBI_overviewpage.jpg)
+
+![Insights](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/main/PowerBI_insights.jpg)
+
+![Review Analysis](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/main/PowerBI_reviewanalysis.jpg)
+
 
 ## Contributers
 Elahe Sharifi, Javeria Umer, Vidisha Gedam, Lavanya Laxmi Uppara, Suzy Deurinck
