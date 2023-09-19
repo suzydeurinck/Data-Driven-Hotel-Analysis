@@ -25,3 +25,10 @@ Our role in this endeavor was to extract meaningful information from travelers' 
 - **Power BI Online:** The online service used for sharing and collaborating on Power BI reports and dashboards.
 - **Power Query in Power BI:** Employed for data transformation and manipulation within Power BI.
 - **DAX (Data Analysis Expressions):** Used for creating custom calculations and expressions in Power BI reports and models.
+
+## Steps
+
+## Report results
+
+## Contributers
+Elahe Sharifi, Javeria Umer, Vidisha Gedam, Lavanya Laxmi Uppara, Suzy Deurinck
