@@ -26,7 +26,22 @@ Our role in this endeavor was to extract meaningful information from travelers' 
 - **Power Query in Power BI:** Employed for data transformation and manipulation within Power BI.
 - **DAX (Data Analysis Expressions):** Used for creating custom calculations and expressions in Power BI reports and models.
 
-## Steps
+## Methodology: Data Transformation & Modeling
+
+1. Connected to Azure Blob Storage in Power BI to access the dataset.
+2. Promoted headers for improved data recognition.
+3. Split the "Hotel Address" column into three segments: address, city, and country. Also, split the "Tags" column into six distinct columns.
+4. Assigned clear names to the newly created columns.
+5. Categorized trip types into business, leisure, and other, as well as categorized traveler types using conditional formatting.
+6. Checked and adjusted headers as needed and verified and corrected data types.
+7. Conducted data profiling, including analyzing column distribution, quality, and profiles, identifying and removing errors, replacing null values with "unknown," and ensuring data completeness.
+8. Introduced a surrogate key (reviewer ID) to all rows for improved data management.
+9. Created dimension tables for Negative and Positive reviews by duplicating the main dataset and removing irrelevant columns.
+10. Filtered negative comments to exclude rows with "no Negative Comment."
+11. Established one-to-many relationships between dimension and fact tables with bidirectional filters for enhanced data analysis.
+    
+Through these steps, we established a strong foundation for our analysis and reporting, enabling us to extract valuable insights from the hotel review dataset.
+
 
 ## Report Results
 
@@ -36,6 +51,8 @@ Our role in this endeavor was to extract meaningful information from travelers' 
 
 ![Review Analysis](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/main/PowerBI_reviewanalysis.jpg)
 
-
 ## Contributers
 Elahe Sharifi, Javeria Umer, Vidisha Gedam, Lavanya Laxmi Uppara, Suzy Deurinck
+
+## Contact
+Feel free to reach out to me at suzydeurinck@gmail.com for any inquiries or collaborations.
