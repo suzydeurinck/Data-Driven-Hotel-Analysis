@@ -42,6 +42,10 @@ Our role in this endeavor was to extract meaningful information from travelers' 
     
 Through these steps, we established a strong foundation for our analysis and reporting, enabling us to extract valuable insights from the hotel review dataset.
 
+![Conditional Column: Type of traveler](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/fe91999aa66eb9add8be2bb9b66daf7dd9eaecb6/Added%20Conditional%20Column%20-%20Travelers%20Type.png)
+
+![Conditional Column: Country](https://github.com/suzydeurinck/Data-Driven-Hotel-Analysis/raw/fe91999aa66eb9add8be2bb9b66daf7dd9eaecb6/Added%20Conditional%20Column%20-%20Country.png)
+
 
 ## Report Results
 
